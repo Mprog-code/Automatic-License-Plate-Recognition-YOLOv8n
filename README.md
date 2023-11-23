@@ -7,8 +7,8 @@ Efficient Tracking and OCR: Utilizes SORT for vehicle tracking and EasyOCR for c
 Adaptability: Optimized for various lighting and weather conditions.
 
 # Installation
-git clone [your-repo-link]
-cd [your-repo-directory]
+git clone [repo-link] 
+cd [repo-directory] 
 pip install -r requirements.txt
 
 # YOLO Version
