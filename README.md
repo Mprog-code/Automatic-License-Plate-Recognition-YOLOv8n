@@ -8,7 +8,9 @@ Adaptability: Optimized for various lighting and weather conditions.
 
 # Installation
 git clone [repo-link] 
+
 cd [repo-directory] 
+
 pip install -r requirements.txt
 
 # YOLO Version
@@ -16,6 +18,7 @@ The project uses YOLOv8, specifically the [nano/small/medium] variant, for licen
 
 # Dataset
 We used the "License Plate Recognition" dataset from Roboflow Universe, which includes diverse images of license plates in different settings. This dataset was instrumental in training the YOLO model to detect various license plate formats effectively.
+
 Available: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4
 
 <img width="796" alt="Screen Shot 2023-11-23 at 7 59 42 PM" src="https://github.com/Mprog-code/Automatic-License-Plate-Recognition-YOLOv8n/assets/90373534/dc2d9491-fc30-4ffc-83eb-42c1a9ed050d">
