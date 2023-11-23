@@ -1,0 +1,13 @@
+names:
+- License_Plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: license-plate-recognition-rxg4e
+  url: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4
+  version: 4
+  workspace: roboflow-universe-projects
+path: /content/License-Plate-Recognition-4/License-Plate-Recognition-4/valid/images
+test: /content/License-Plate-Recognition-4/test
+train: /content/License-Plate-Recognition-4/train/images
+val: /content/License-Plate-Recognition-4/valid/images
